@@ -1,0 +1,5 @@
+experiment,backbone,strategy,pretrained,lr,best_val_acc,test_acc,test_precision,test_recall,test_f1
+Exp1_ResNet50_FeatureExtract,resnet50,feature_extract,True,0.001,0.7439,0.7449,0.755,0.7555,0.7342
+Exp2_ResNet50_FullFinetune,resnet50,full_finetune,True,0.001,0.8974,0.9198,0.9206,0.9248,0.9148
+Exp3_EfficientNet_FullFinetune,efficientnet_b0,full_finetune,True,0.001,0.9492,0.9541,0.9544,0.957,0.9517
+Exp4_ResNet50_NoPretrain,resnet50,full_finetune,False,0.0001,0.4516,0.4907,0.4798,0.5012,0.4561
