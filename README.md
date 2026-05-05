@@ -1,4 +1,4 @@
-# ⚡ PokéClassifier
+# ⚡ PokeLens
 
 포켓몬 이미지를 입력하면 포켓몬의 이름을 맞추는 이미지 분류기입니다.  
 사전학습된 CNN 모델을 전이학습(Transfer Learning)하여 150종의 포켓몬을 분류합니다.
