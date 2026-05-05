@@ -70,9 +70,9 @@ Model 4는 Model 2와 모든 조건이 동일하지만 ImageNet pretrained weigh
 
 ---
 
-## 분류 실행 결과
+## 데모 GUI 및 분류 실행 결과
 
-![데모 스크린샷](demo.png)
+![데모 스크린샷](result.png)
 
 ---
 
