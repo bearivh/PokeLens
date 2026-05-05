@@ -7,7 +7,7 @@
 
 ## 데모
 
-![데모 스크린샷](screenshots/demo.png)
+![데모 스크린샷](demo.png)
 
 ---
 
